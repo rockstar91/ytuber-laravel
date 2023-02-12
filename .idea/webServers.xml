@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="09e5e2dc-ed1b-43ee-9399-575d995fdf19" name="ytuber.ru" url="http://ytuber.ru">
+        <fileTransfer rootFolder="/www/ytuber-nuxt-laravel" host="ytuber.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="34f392a9-57c5-44e7-aa22-9392cd0e7b77" name="seozenn" url="http://seozenn.ru">
+        <fileTransfer rootFolder="/www/seozenn.ru" accessType="FTPS" host="seozenn.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

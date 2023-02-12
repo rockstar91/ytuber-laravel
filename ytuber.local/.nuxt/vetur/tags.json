@@ -1,0 +1,83 @@
+{
+  "AccountChooser": {
+    "description": "Auto imported from components/AccountChooser.vue"
+  },
+  "CompleteForPublic": {
+    "description": "Auto imported from components/CompleteForPublic.vue"
+  },
+  "DalyBonus": {
+    "description": "Auto imported from components/DalyBonus.vue"
+  },
+  "Dashboard": {
+    "description": "Auto imported from components/Dashboard.vue"
+  },
+  "EllipsisLoader": {
+    "description": "Auto imported from components/EllipsisLoader.vue"
+  },
+  "FloatNav": {
+    "description": "Auto imported from components/FloatNav.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "GuestHeader": {
+    "description": "Auto imported from components/GuestHeader.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "ModerateAccount": {
+    "description": "Auto imported from components/ModerateAccount.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "NewsModule": {
+    "description": "Auto imported from components/NewsModule.vue"
+  },
+  "NotificationsModule": {
+    "description": "Auto imported from components/NotificationsModule.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "SidebarSecondary": {
+    "description": "Auto imported from components/SidebarSecondary.vue"
+  },
+  "SupportForm": {
+    "description": "Auto imported from components/SupportForm.vue"
+  },
+  "TaskDeleteModal": {
+    "description": "Auto imported from components/TaskDeleteModal.vue"
+  },
+  "TaskDetailCompletions": {
+    "description": "Auto imported from components/TaskDetailCompletions.vue"
+  },
+  "TaskFilter": {
+    "description": "Auto imported from components/TaskFilter.vue"
+  },
+  "TaskForm": {
+    "description": "Auto imported from components/TaskForm.vue"
+  },
+  "TopChannel": {
+    "description": "Auto imported from components/TopChannel.vue"
+  },
+  "UserActivity": {
+    "description": "Auto imported from components/UserActivity.vue"
+  },
+  "UserReferrals": {
+    "description": "Auto imported from components/UserReferrals.vue"
+  },
+  "YoutubePlayer": {
+    "description": "Auto imported from components/YoutubePlayer.vue"
+  },
+  "YtPlayer": {
+    "description": "Auto imported from components/YtPlayer.vue"
+  },
+  "YtuberChat": {
+    "description": "Auto imported from components/YtuberChat.vue"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "ytuber",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && nuxt",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && nuxt build",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && nuxt start",
+    "generate": "SET NODE_OPTIONS=--openssl-legacy-provider & nuxt generate"
+  },
+  "dependencies": {
+    "@babel/preset-env": "~7.12.0",
+    "@nuxt/http": "^0.6.4",
+    "@nuxtjs/auth-next": "^5.0.0-1624817847.21691f1",
+    "@nuxtjs/axios": "^5.12.1",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/i18n": "^7.2.2",
+    "@nuxtjs/laravel-echo": "^2.0.0-alpha.5",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@nuxtjs/recaptcha": "^1.0.4",
+    "@nuxtjs/toast": "^3.3.1",
+    "@nuxtjs/yandex-metrika": "^1.4.0",
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^2.7.1",
+    "core-js": "^3.15.1",
+    "emoji-mart-vue-2": "^2.7.9",
+    "emoji-mart-vue-fast": "^11.2.0",
+    "emoji-regex": "^8.0.0",
+    "install": "^0.13.0",
+    "laravel-vue-pagination": "^2.3.1",
+    "npm": "^8.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-clipboard": "^0.0.6",
+    "nuxt-vue-multiselect": "^1.0.4",
+    "pusher-js": "^4.4.0",
+    "vue-animejs": "^2.1.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-chat-scroll": "^1.4.0",
+    "vue-cryptojs": "^2.3.0",
+    "vue-emoji-picker": "^1.0.3",
+    "vue-toasted": "^1.1.28",
+    "vue-youtube-embed": "^2.2.2",
+    "walletone": "^0.1.11"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.3",
+    "sass": "^1.54.9"
+  }
+}

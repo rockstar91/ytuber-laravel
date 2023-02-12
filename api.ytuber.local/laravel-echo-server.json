@@ -1,0 +1,43 @@
+{
+	"authHost": "https://api.socbooster.com",
+	"authEndpoint": "/api/broadcast/auth",
+	"clients": [
+		{
+			"appId": "YtuberChatApplication",
+			"key": "3Pb2350Br553cgYcxvvN2w213hZ"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {
+			"password": "bc4UUKG84q2S4StHK7N9eD"
+		}
+	},
+	"devMode": true,
+	"host": "api.socbooster.com",
+	"port": "6001",
+	"protocol": "https",
+	"socketio": {
+		"cors": {
+			"origin": "https://socbooster.com",
+			"methods": ["GET", "POST"],
+			"allowedHeaders": ["Origin", "Content-Type", "X-Auth-Token", "X-Requested-With", "Accept", "Authorization", "X-CSRF-TOKEN", "X-Socket-Id"],
+			"credentials": true
+		}
+	},
+	"secureOptions": 67108864,
+	"sslCertPath": "/var/www/httpd-cert/ytuber/socbooster.com_le2.crtca",
+	"sslKeyPath": "/var/www/httpd-cert/ytuber/socbooster.com_le2.key",
+	"sslCertChainPath": "",
+	"sslPassphrase": "",
+	"subscribers": {
+		"http": true,
+		"redis": true
+	},
+	"apiOriginAllow": {
+		"allowCors": true,
+		"allowOrigin": "https://socbooster.com",
+		"allowMethods": "GET,POST",
+		"allowHeaders": "Origin, Content-Type, X-Auth-Token, X-Requested-With, Accept, Authorization, X-CSRF-TOKEN, X-Socket-Id"
+	}
+}
