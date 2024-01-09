@@ -201,7 +201,7 @@
       'file' => 
       array (
         'driver' => 'file',
-        'path' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\framework/cache/data',
+        'path' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\framework/cache/data',
       ),
       'memcached' => 
       array (
@@ -370,12 +370,12 @@
       'local' => 
       array (
         'driver' => 'local',
-        'root' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\app',
+        'root' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\app',
       ),
       'public' => 
       array (
         'driver' => 'local',
-        'root' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\app/public',
+        'root' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\app/public',
         'url' => 'localhost/storage',
         'visibility' => 'public',
       ),
@@ -392,7 +392,7 @@
     ),
     'links' => 
     array (
-      'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\public\\storage' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\app/public',
+      'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\public\\storage' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\app/public',
     ),
   ),
   'hashing' => 
@@ -417,7 +417,7 @@
       'maillog' => 
       array (
         'driver' => 'single',
-        'path' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\mails/laravel.log',
+        'path' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\mails/laravel.log',
       ),
       'stack' => 
       array (
@@ -431,13 +431,13 @@
       'single' => 
       array (
         'driver' => 'single',
-        'path' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\logs/laravel.log',
+        'path' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\logs/laravel.log',
         'level' => 'debug',
       ),
       'daily' => 
       array (
         'driver' => 'daily',
-        'path' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\logs/laravel.log',
+        'path' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\logs/laravel.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -487,7 +487,7 @@
       ),
       'emergency' => 
       array (
-        'path' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\logs/laravel.log',
+        'path' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\logs/laravel.log',
       ),
     ),
   ),
@@ -544,7 +544,7 @@
       'theme' => 'default',
       'paths' => 
       array (
-        0 => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\resources\\views/vendor/mail',
+        0 => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\resources\\views/vendor/mail',
       ),
     ),
     'stream' => 
@@ -703,7 +703,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\framework/sessions',
+    'files' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -826,9 +826,9 @@
   array (
     'paths' => 
     array (
-      0 => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\resources\\views',
+      0 => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\resources\\views',
     ),
-    'compiled' => 'F:\\WebServer\\domains\\ytuber-nuxt-laravel\\api.ytuber.local\\storage\\framework\\views',
+    'compiled' => 'C:\\OpenServer\\domains\\ytuber\\api.ytuber.local\\storage\\framework\\views',
   ),
   'websockets' => 
   array (
@@ -882,7 +882,7 @@
   ),
   'youtube' => 
   array (
-    'key' => 'AIzaSyAxuliFNb92b96daoKzRFBGj4xuWYbDxCQ',
+    'key' => 'AIzaSyAjFV-6OZacXvrUvtSJvQ9rkTO2qSRNei4',
     'keys' => 
     array (
       0 => 'AIzaSyAxuliFNb92b96daoKzRFBGj4xuWYbDxCQ',

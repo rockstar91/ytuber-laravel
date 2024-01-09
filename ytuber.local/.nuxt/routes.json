@@ -2,301 +2,351 @@
   {
     "name": "api___ru",
     "path": "/api",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\api\\\\index.vue",
-    "chunkName": "pages/api/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\api\\\\index.vue",
+    "chunkName": "pages/api/index",
+    "_name": "_6257ffd0"
   },
   {
     "name": "articles___ru",
     "path": "/articles",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\articles\\\\index.vue",
-    "chunkName": "pages/articles/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\articles\\\\index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_ca1e2bf6"
   },
   {
     "name": "captcha___ru",
     "path": "/captcha",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\captcha\\\\index.vue",
-    "chunkName": "pages/captcha/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\captcha\\\\index.vue",
+    "chunkName": "pages/captcha/index",
+    "_name": "_80c01090"
   },
   {
     "name": "chat___ru",
     "path": "/chat",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\chat\\\\index.vue",
-    "chunkName": "pages/chat/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index",
+    "_name": "_655e760a"
   },
   {
     "name": "dashboard___ru",
     "path": "/dashboard",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_2073995e"
   },
   {
     "name": "index___en",
     "path": "/en",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_da18b43c"
   },
   {
     "name": "faq___ru",
     "path": "/faq",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\faq\\\\index.vue",
-    "chunkName": "pages/faq/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\faq\\\\index.vue",
+    "chunkName": "pages/faq/index",
+    "_name": "_7c08b99c"
   },
   {
     "name": "login___ru",
     "path": "/login",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_a00a9d2e"
   },
   {
     "name": "password-recovery___ru",
     "path": "/password-recovery",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\password-recovery\\\\index.vue",
-    "chunkName": "pages/password-recovery/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\password-recovery\\\\index.vue",
+    "chunkName": "pages/password-recovery/index",
+    "_name": "_58d48f8b"
   },
   {
     "name": "payments___ru",
     "path": "/payments",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\payments\\\\index.vue",
-    "chunkName": "pages/payments/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\payments\\\\index.vue",
+    "chunkName": "pages/payments/index",
+    "_name": "_24f53715"
   },
   {
     "name": "privacy_policy___ru",
     "path": "/privacy_policy",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\privacy_policy\\\\index.vue",
-    "chunkName": "pages/privacy_policy/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\privacy_policy\\\\index.vue",
+    "chunkName": "pages/privacy_policy/index",
+    "_name": "_13835cf9"
   },
   {
     "name": "profile___ru",
     "path": "/profile",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\profile\\\\index.vue",
-    "chunkName": "pages/profile/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_6ec3ed29"
   },
   {
     "name": "referrals___ru",
     "path": "/referrals",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\referrals\\\\index.vue",
-    "chunkName": "pages/referrals/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\referrals\\\\index.vue",
+    "chunkName": "pages/referrals/index",
+    "_name": "_17976a3c"
   },
   {
     "name": "registration___ru",
     "path": "/registration",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\registration\\\\index.vue",
-    "chunkName": "pages/registration/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\registration\\\\index.vue",
+    "chunkName": "pages/registration/index",
+    "_name": "_2dc69bee"
   },
   {
     "name": "rules___ru",
     "path": "/rules",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\rules\\\\index.vue",
-    "chunkName": "pages/rules/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\rules\\\\index.vue",
+    "chunkName": "pages/rules/index",
+    "_name": "_2b6919ca"
   },
   {
     "name": "terms_of_use___ru",
     "path": "/terms_of_use",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\terms_of_use\\\\index.vue",
-    "chunkName": "pages/terms_of_use/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\terms_of_use\\\\index.vue",
+    "chunkName": "pages/terms_of_use/index",
+    "_name": "_ae9e01aa"
   },
   {
     "name": "transactions___ru",
     "path": "/transactions",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\transactions\\\\index.vue",
-    "chunkName": "pages/transactions/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\transactions\\\\index.vue",
+    "chunkName": "pages/transactions/index",
+    "_name": "_beb85026"
   },
   {
     "name": "views___ru",
     "path": "/views",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\views\\\\index.vue",
-    "chunkName": "pages/views/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\views\\\\index.vue",
+    "chunkName": "pages/views/index",
+    "_name": "_5b203d78"
   },
   {
     "name": "api___en",
     "path": "/en/api",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\api\\\\index.vue",
-    "chunkName": "pages/api/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\api\\\\index.vue",
+    "chunkName": "pages/api/index",
+    "_name": "_6257ffd0"
   },
   {
     "name": "articles___en",
     "path": "/en/articles",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\articles\\\\index.vue",
-    "chunkName": "pages/articles/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\articles\\\\index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_ca1e2bf6"
   },
   {
     "name": "captcha___en",
     "path": "/en/captcha",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\captcha\\\\index.vue",
-    "chunkName": "pages/captcha/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\captcha\\\\index.vue",
+    "chunkName": "pages/captcha/index",
+    "_name": "_80c01090"
   },
   {
     "name": "chat___en",
     "path": "/en/chat",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\chat\\\\index.vue",
-    "chunkName": "pages/chat/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index",
+    "_name": "_655e760a"
   },
   {
     "name": "dashboard___en",
     "path": "/en/dashboard",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_2073995e"
   },
   {
     "name": "faq___en",
     "path": "/en/faq",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\faq\\\\index.vue",
-    "chunkName": "pages/faq/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\faq\\\\index.vue",
+    "chunkName": "pages/faq/index",
+    "_name": "_7c08b99c"
   },
   {
     "name": "login___en",
     "path": "/en/login",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_a00a9d2e"
   },
   {
     "name": "password-recovery___en",
     "path": "/en/password-recovery",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\password-recovery\\\\index.vue",
-    "chunkName": "pages/password-recovery/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\password-recovery\\\\index.vue",
+    "chunkName": "pages/password-recovery/index",
+    "_name": "_58d48f8b"
   },
   {
     "name": "payments___en",
     "path": "/en/payments",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\payments\\\\index.vue",
-    "chunkName": "pages/payments/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\payments\\\\index.vue",
+    "chunkName": "pages/payments/index",
+    "_name": "_24f53715"
   },
   {
     "name": "privacy_policy___en",
     "path": "/en/privacy_policy",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\privacy_policy\\\\index.vue",
-    "chunkName": "pages/privacy_policy/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\privacy_policy\\\\index.vue",
+    "chunkName": "pages/privacy_policy/index",
+    "_name": "_13835cf9"
   },
   {
     "name": "profile___en",
     "path": "/en/profile",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\profile\\\\index.vue",
-    "chunkName": "pages/profile/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_6ec3ed29"
   },
   {
     "name": "referrals___en",
     "path": "/en/referrals",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\referrals\\\\index.vue",
-    "chunkName": "pages/referrals/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\referrals\\\\index.vue",
+    "chunkName": "pages/referrals/index",
+    "_name": "_17976a3c"
   },
   {
     "name": "registration___en",
     "path": "/en/registration",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\registration\\\\index.vue",
-    "chunkName": "pages/registration/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\registration\\\\index.vue",
+    "chunkName": "pages/registration/index",
+    "_name": "_2dc69bee"
   },
   {
     "name": "rules___en",
     "path": "/en/rules",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\rules\\\\index.vue",
-    "chunkName": "pages/rules/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\rules\\\\index.vue",
+    "chunkName": "pages/rules/index",
+    "_name": "_2b6919ca"
   },
   {
     "name": "terms_of_use___en",
     "path": "/en/terms_of_use",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\terms_of_use\\\\index.vue",
-    "chunkName": "pages/terms_of_use/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\terms_of_use\\\\index.vue",
+    "chunkName": "pages/terms_of_use/index",
+    "_name": "_ae9e01aa"
   },
   {
     "name": "transactions___en",
     "path": "/en/transactions",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\transactions\\\\index.vue",
-    "chunkName": "pages/transactions/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\transactions\\\\index.vue",
+    "chunkName": "pages/transactions/index",
+    "_name": "_beb85026"
   },
   {
     "name": "views___en",
     "path": "/en/views",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\views\\\\index.vue",
-    "chunkName": "pages/views/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\views\\\\index.vue",
+    "chunkName": "pages/views/index",
+    "_name": "_5b203d78"
   },
   {
     "name": "payments-success___ru",
     "path": "/payments/success",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\payments\\\\success\\\\index.vue",
-    "chunkName": "pages/payments/success/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\payments\\\\success\\\\index.vue",
+    "chunkName": "pages/payments/success/index",
+    "_name": "_4a929a88"
   },
   {
     "name": "task-create___ru",
     "path": "/task/create",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\create\\\\index.vue",
-    "chunkName": "pages/task/create/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\create\\\\index.vue",
+    "chunkName": "pages/task/create/index",
+    "_name": "_331eb0c1"
   },
   {
     "name": "task-list___ru",
     "path": "/task/list",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\list\\\\index.vue",
-    "chunkName": "pages/task/list/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\list\\\\index.vue",
+    "chunkName": "pages/task/list/index",
+    "_name": "_71c6e09f"
   },
   {
     "name": "work-list___ru",
     "path": "/work/list",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\work\\\\list\\\\index.vue",
-    "chunkName": "pages/work/list/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\work\\\\list\\\\index.vue",
+    "chunkName": "pages/work/list/index",
+    "_name": "_74c11893"
   },
   {
     "name": "payments-success___en",
     "path": "/en/payments/success",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\payments\\\\success\\\\index.vue",
-    "chunkName": "pages/payments/success/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\payments\\\\success\\\\index.vue",
+    "chunkName": "pages/payments/success/index",
+    "_name": "_4a929a88"
   },
   {
     "name": "task-create___en",
     "path": "/en/task/create",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\create\\\\index.vue",
-    "chunkName": "pages/task/create/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\create\\\\index.vue",
+    "chunkName": "pages/task/create/index",
+    "_name": "_331eb0c1"
   },
   {
     "name": "task-list___en",
     "path": "/en/task/list",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\list\\\\index.vue",
-    "chunkName": "pages/task/list/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\list\\\\index.vue",
+    "chunkName": "pages/task/list/index",
+    "_name": "_71c6e09f"
   },
   {
     "name": "work-list___en",
     "path": "/en/work/list",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\work\\\\list\\\\index.vue",
-    "chunkName": "pages/work/list/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\work\\\\list\\\\index.vue",
+    "chunkName": "pages/work/list/index",
+    "_name": "_74c11893"
   },
   {
     "name": "task-edit-id___en",
     "path": "/en/task/edit/:id?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\edit\\\\_id.vue",
-    "chunkName": "pages/task/edit/_id"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\edit\\\\_id.vue",
+    "chunkName": "pages/task/edit/_id",
+    "_name": "_48f3ca4a"
   },
   {
     "name": "allow-transaction-alias___en",
     "path": "/en/allow-transaction/:alias?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\allow-transaction\\\\_alias.vue",
-    "chunkName": "pages/allow-transaction/_alias"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\allow-transaction\\\\_alias.vue",
+    "chunkName": "pages/allow-transaction/_alias",
+    "_name": "_ef7cec8a"
   },
   {
     "name": "refferal-alias___en",
     "path": "/en/refferal/:alias?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\refferal\\\\_alias.vue",
-    "chunkName": "pages/refferal/_alias"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\refferal\\\\_alias.vue",
+    "chunkName": "pages/refferal/_alias",
+    "_name": "_a1820b88"
   },
   {
     "name": "task-edit-id___ru",
     "path": "/task/edit/:id?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\task\\\\edit\\\\_id.vue",
-    "chunkName": "pages/task/edit/_id"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\task\\\\edit\\\\_id.vue",
+    "chunkName": "pages/task/edit/_id",
+    "_name": "_48f3ca4a"
   },
   {
     "name": "allow-transaction-alias___ru",
     "path": "/allow-transaction/:alias?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\allow-transaction\\\\_alias.vue",
-    "chunkName": "pages/allow-transaction/_alias"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\allow-transaction\\\\_alias.vue",
+    "chunkName": "pages/allow-transaction/_alias",
+    "_name": "_ef7cec8a"
   },
   {
     "name": "refferal-alias___ru",
     "path": "/refferal/:alias?",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\refferal\\\\_alias.vue",
-    "chunkName": "pages/refferal/_alias"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\refferal\\\\_alias.vue",
+    "chunkName": "pages/refferal/_alias",
+    "_name": "_a1820b88"
   },
   {
     "name": "index___ru",
     "path": "/",
-    "component": "F:\\\\WebServer\\\\domains\\\\ytuber-nuxt-laravel\\\\ytuber.local\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\OpenServer\\\\domains\\\\ytuber\\\\ytuber.local\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_da18b43c"
   }
 ]

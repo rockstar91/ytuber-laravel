@@ -16,9 +16,7 @@ export class EffectScope {
    * @internal
    */
   cleanups: (() => void)[] = []
-
   /**
-   * only assigned by undetached scope
    * @internal
    */
   parent: EffectScope | undefined
@@ -28,15 +26,19 @@ export class EffectScope {
    */
   scopes: EffectScope[] | undefined
   /**
+   * indicates this being a component root scope
+   * @internal
+   */
+  _vm?: boolean
+  /**
    * track a child scope's index in its parent's scopes array for optimized
    * removal
-   * @internal
    */
   private index: number | undefined
 
-  constructor(detached = false) {
+  constructor(public detached = false) {
+    this.parent = activeEffectScope
     if (!detached && activeEffectScope) {
-      this.parent = activeEffectScope
       this.index =
         (activeEffectScope.scopes || (activeEffectScope.scopes = [])).push(
           this
@@ -89,7 +91,7 @@ export class EffectScope {
         }
       }
       // nested scope, dereference from parent to avoid memory leaks
-      if (this.parent && !fromParent) {
+      if (!this.detached && this.parent && !fromParent) {
         // optimized O(1) removal
         const last = this.parent.scopes!.pop()
         if (last && last !== this) {
@@ -97,6 +99,7 @@ export class EffectScope {
           last.index = this.index!
         }
       }
+      this.parent = undefined
       this.active = false
     }
   }
